@@ -42,7 +42,7 @@
             Console.Write("Digite parte da palavra: ");
             // Ler a linha das letras e converte-las para minusculo
             letras = Console.ReadLine();
-            letras?.ToLower();
+            letras = letras?.ToLower();
             Pesquisa();
         }
 
@@ -72,7 +72,7 @@
             // Array de palavras encontradas 
             List<string> palavrasEncontradas = new List<string>();
 
-            Console.WriteLine("|===========|");
+            Console.WriteLine("|=======================|");
 
             // verifica cada palavra dentro da array de palavras
             foreach (var palavra in palavrasLowerCase)
