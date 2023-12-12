@@ -1,0 +1,14 @@
+D:\dev\JKLM\bin\Debug\net8.0\JKLM.exe
+D:\dev\JKLM\bin\Debug\net8.0\JKLM.deps.json
+D:\dev\JKLM\bin\Debug\net8.0\JKLM.runtimeconfig.json
+D:\dev\JKLM\bin\Debug\net8.0\JKLM.dll
+D:\dev\JKLM\bin\Debug\net8.0\JKLM.pdb
+D:\dev\JKLM\obj\Debug\net8.0\JKLM.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\JKLM\obj\Debug\net8.0\JKLM.AssemblyInfoInputs.cache
+D:\dev\JKLM\obj\Debug\net8.0\JKLM.AssemblyInfo.cs
+D:\dev\JKLM\obj\Debug\net8.0\JKLM.csproj.CoreCompileInputs.cache
+D:\dev\JKLM\obj\Debug\net8.0\JKLM.dll
+D:\dev\JKLM\obj\Debug\net8.0\refint\JKLM.dll
+D:\dev\JKLM\obj\Debug\net8.0\JKLM.pdb
+D:\dev\JKLM\obj\Debug\net8.0\JKLM.genruntimeconfig.cache
+D:\dev\JKLM\obj\Debug\net8.0\ref\JKLM.dll
