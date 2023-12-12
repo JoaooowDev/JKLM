@@ -27,7 +27,6 @@
 
         static void Menu()
         {
-            Console.Clear();
             Console.Write("Digite parte da palavra: ");
             letras = Console.ReadLine();
             letras?.ToLower();
@@ -74,6 +73,7 @@
             }
 
             Console.ReadKey();
+            Console.Clear();
             Menu();
         }
     }
