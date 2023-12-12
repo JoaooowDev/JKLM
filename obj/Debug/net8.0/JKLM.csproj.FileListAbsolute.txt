@@ -12,3 +12,4 @@ D:\dev\JKLM\obj\Debug\net8.0\refint\JKLM.dll
 D:\dev\JKLM\obj\Debug\net8.0\JKLM.pdb
 D:\dev\JKLM\obj\Debug\net8.0\JKLM.genruntimeconfig.cache
 D:\dev\JKLM\obj\Debug\net8.0\ref\JKLM.dll
+D:\dev\JKLM\obj\Debug\net8.0\JKLM.sourcelink.json
