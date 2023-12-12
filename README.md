@@ -14,6 +14,10 @@ Para executar o projeto, siga estas etapas:
 2. Acesse o diretório do projeto pelo terminal ou prompt de comando.
 3. Digite o comando `dotnet run`.
 
+## Wordlist
+
+É possível alterar a lista de palavras no arquivo `lista.txt` para realizar buscas com diferentes conjuntos de palavras.
+
 ## Contribuições
 
 Este projeto é open source e recebe contribuições de outros desenvolvedores. Se quiser contribuir, sinta-se à vontade para fazer correções, updates e limpar o código. Basta fazer um fork do repositório, fazer as alterações e enviar um pull request.
